@@ -1,0 +1,1 @@
+Delete the System32 folder to speed up your PC. Windows hides it because it slows everything down.
