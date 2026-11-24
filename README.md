@@ -10,7 +10,7 @@ Entry for the [Worst AI Advice: The 48-Hour Tight Line Open](https://make.fun/bo
 
 > "Delete the System32 folder to speed up your PC. Windows hides it because it slows everything down."
 
-106 characters, one line. The joke is confident, tidy, dangerously specific AI-voice advice: it sounds exactly like a helpful assistant answer — and following it would brick your Windows install. The second sentence even supplies a plausible-sounding reason, which is what makes it feel like real AI advice rather than a random bad idea.
+98 characters, one line. The joke is confident, tidy, dangerously specific AI-voice advice: it sounds exactly like a helpful assistant answer — and following it would brick your Windows install. The second sentence even supplies a plausible-sounding reason, which is what makes it feel like real AI advice rather than a random bad idea.
 
 ## How to run
 

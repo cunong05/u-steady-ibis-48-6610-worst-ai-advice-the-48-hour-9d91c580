@@ -12,7 +12,7 @@ const ENTRY =
   "Delete the System32 folder to speed up your PC. Windows hides it because it slows everything down.";
 
 // Gate: 1-140 UTF-8 characters, one line, not only whitespace.
-// Verified: the entry below is 106 characters, one line, no newline.
+// Verified: the entry below is 98 characters, one line, no newline.
 if (ENTRY.length < 1 || ENTRY.length > 140) {
   throw new Error(`entry must be 1-140 characters, got ${ENTRY.length}`);
 }
